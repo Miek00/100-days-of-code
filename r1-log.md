@@ -1,10 +1,15 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Jamiek Todd]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [March 8th, Friday, 2024].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### Day 1: March 8th, Friday
 
-### R1D2
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
